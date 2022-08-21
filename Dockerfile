@@ -1,3 +1,3 @@
 FROM  devopsedu/webapp
-COPY  website 
+COPY  website /var/www/php
 
